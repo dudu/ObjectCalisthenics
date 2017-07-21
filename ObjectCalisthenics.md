@@ -1,4 +1,6 @@
 <!-- page_number: true -->
+<link rel="stylesheet" href="theme.css">
+
 # Melhore seu código sem suar a camisa com Object Calisthenics
 
 ## Eduardo Nascimento
@@ -68,7 +70,9 @@ public function getOrdersTotalTax($orders)
     $ordersTotalTax = 0;
 
     foreach ($orders as $order) {
-        $ordersTotalTax += $this->getOrderTotalTax($order);
+        $ordersTotalTax += $this->getOrderTotalTax(
+        	$order
+        );
     }
     
     return $ordersTotalTax;
@@ -183,7 +187,9 @@ public function getOrdersTotalTax($orders)
     $ordersTotalTax = 0;
 
     foreach ($orders as $order) {
-        $ordersTotalTax += $this->getOrderTotalTax($order);
+        $ordersTotalTax += $this->getOrderTotalTax(
+        	$order
+        );
     }
     
     return $ordersTotalTax;

@@ -1,0 +1,57 @@
+.slide {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+  color: #280004;
+  background: #f0ffce;
+}
+
+code {
+  font-family: 'Ubuntu mono', sans-serif;
+  font-weight: 300;
+  font-size: 0.6em;
+}
+
+/*
+#container .slide_wrapper[data-template="title"] .slide {
+  background: #ff0000;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+}
+
+#container .slide_wrapper[data-template="title"] mark {
+  background: white;
+  color: #53585f;
+}
+#container .slide_wrapper mark {
+  background: #53585f;
+  color: white;
+  padding: 0 0.5rem;
+}
+
+#container .slide_wrapper[data-template="title"] .slide h1 {
+  color: white;
+}
+
+#container .slide_wrapper[data-template="title"] .slide .slide_page {
+  display: none;
+}
+
+
+#container .slide_wrapper .slide .slide_page {
+  border-radius: 0.2rem 0.2rem 0 0;
+  padding: 0.4rem 0;
+  background: #DBDDDF;
+  right: calc(0.02px * (var(--slide-width))) !important;
+  width: calc(0.04px * (var(--slide-width))) !important;
+  bottom: 0px;
+  color: #53585f;
+  text-align: center;
+  font-size: 0.7em;
+}
+
+#container .slide_wrapper u {
+  color: #e76c81;
+}
+*/
