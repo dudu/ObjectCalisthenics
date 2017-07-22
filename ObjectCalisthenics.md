@@ -8,12 +8,6 @@
 
 ---
 ## Calisthenics?
-- καλλος (kallos = beleza), σθενος (sthenos = força)
-
-![etimologia](estrategia.jpg)
-
----
-## Calisthenics?
 ![Video](calistenia.png)
 - [Youtube](https://www.youtube.com/watch?v=yQ7gpvDQLbE)
 
